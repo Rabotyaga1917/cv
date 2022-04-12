@@ -1,0 +1,27 @@
+.univer_name {
+font-style: italic;
+font-size: 22px;
+}
+
+.univer_facultet {
+font-size: 17px;
+text-decoration: underline;	
+}
+
+.img_avatar {
+float: left;
+width: 350px;
+margin-right: 3%;
+border: 20px solid orange;
+}
+
+.button_hire_1 {
+width: 150px;
+height: 100px;
+align-content: center;
+font-size: large;
+font-weight: bold;
+text-align: center;
+margin-right: 50%;
+margin-left: 30%;
+}
